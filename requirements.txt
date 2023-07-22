@@ -1,0 +1,13 @@
+aiocfscrape==1.0.0
+aiofiles==22.1.0
+aiohttp==3.8.1
+aiohttp_socks==0.7.1
+aiosqlite==0.17.0
+cloudscraper==1.2.60
+discord.py==2.0.1
+names==0.3.0
+random_address==1.1.1
+random_username==1.0.2
+flask==2.2.2
+gunicorn==20.1.0
+nest_asyncio==1.5.6
