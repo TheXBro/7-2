@@ -3,8 +3,7 @@ command_cooldown= 0 #11000
 global_cooldown= 0 #300
 
 
-role_id= 994419592300601475
-
+role_id= 99441959230
 server_id= 994405187886272563
 
 application_id= 945897617152438283
